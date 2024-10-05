@@ -1,0 +1,26 @@
+.redditPost {
+	display: flex;
+	flex-direction: column;
+	width: 25cqw;
+	padding: 15px;
+	justify-content: stretch;
+}
+.redditPost h3 {
+	margin-top: 0px;
+}
+.redditPost a {
+	align-self: center;
+}
+.redditPost .footer {
+	display: flex;
+	flex-direction: wrap;
+	text-transform: uppercase;
+	font-weight: 800;
+	background-color: rgb(197, 197, 197);
+	padding: 10px;
+}
+main {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
